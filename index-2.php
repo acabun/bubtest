@@ -23,7 +23,8 @@
   </header>
 
   <div class='newkkt1'>some text 1</div>
-  <div class='newkkt2'>some text 2</div>
+  
+  djfh oiush ioduhv dishiusdh ihs iuvdgs
 
   <section class='disrow' id='top-nav'>
    <nav class="wrap">
