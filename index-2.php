@@ -26,7 +26,7 @@
   
   <p>djfh oiush ioduhv dishiusdh ihs iuvdgs</p>
   <b class='disrow'>branch testing ---> after change</b>
-  <p>ygdsiyg sdiyug iudsyguvydsgys</p>
+  <p style='color:#505050;'> there is nothing to change</p>
 
   <p style='color:#ff0000;'>new b2 content</p>
 
