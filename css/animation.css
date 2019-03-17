@@ -1,0 +1,43 @@
+.anime{ text-align:center; }
+.anime h1{ width:100%;margin-top:10px;}
+.anime .trans{transition:background-color 2s ease; border:1px solid #505050; padding:8px; background-color:yellow; cursor:pointer; }
+.anime .trans:hover{background-color:green;}
+.anime .trans:active{background-color:brown; }
+
+.trans-2{ transition:left 2s ease; width:200px; height:50px; background-color:#505050;     left: -180px;}
+.trans-2:hover{left:0px;}
+
+@keyframes car{
+  70%{  left:70%;}
+}
+
+.car{ height:400px; background-image:url(../img/bg.jpg); }
+.car img{   width: 100px; cursor: pointer;   float: left;   left: 22%;    top: 80%;    position: relative;
+ animation-name:car;
+ animation-duration:5s;
+ animation-delay:2s;
+ animation-iteration-count:0.85;
+ animation-timing-function:linear;
+ animation-fill-mode:both;
+
+}
+.car img:hover{ animation-play-state:paused;}
+
+.d3,.grad{margin-top:20px;}
+.d3 .pfiod, .grad .pfiod{ background-size:100%; border:1px solid #000; width:272px; left:30%; margin-left:-100px; height:161px; margin:10px; margin-bottom:20px;}
+.grad .a{background: linear-gradient(to bottom right, #ff6e02, #ffff00, #ff6e02);}
+.grad .b{ background:radial-gradient(circle closest-corner ,#2e0d57 5%,#bc581c 30%,#ff7c00 50%);}
+.grad .pfiod{transition:transform 2s ease;}
+.grad .pfiod:hover{transform:scale(2);}
+
+
+.d3{height:200px;margin-bottom:20px; }
+
+.d3 .pfiod{ transition:transform 2s ease; position:absolute;backface-visibility:hidden; }
+
+.d3 .pfiod:hover{ transform: rotate3d(1, 0, 0, 180deg); transform-style:flat; }
+
+.d3  .a{  background-color:red;    transform: rotate3d(1, 0, 0, 0deg); }
+.d3  .b{  background-color:yellow; }
+
+
