@@ -24,10 +24,9 @@
 
   <div class='newkkt1'>some text 1</div>
   
-  djfh oiush ioduhv dishiusdh ihs iuvdgs
+  <p>djfh oiush ioduhv dishiusdh ihs iuvdgs</p>
   <b class='disrow'>branch testing ---> after change</b>
-
-  ygdsiyg sdiyug iudsyguvydsgys
+  <p>ygdsiyg sdiyug iudsyguvydsgys</p>
 
   <section class='disrow' id='top-nav'>
    <nav class="wrap">
