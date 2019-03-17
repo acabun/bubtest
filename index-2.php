@@ -28,6 +28,10 @@
   <b class='disrow'>branch testing ---> after change</b>
   <p>ygdsiyg sdiyug iudsyguvydsgys</p>
 
+  <p style='color:#ff0000;'>new b2 content</p>
+
+
+
   <section class='disrow' id='top-nav'>
    <nav class="wrap">
     <ul class='pfiod'>
