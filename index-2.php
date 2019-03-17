@@ -22,7 +22,8 @@
    </div>
   </header>
 
-<div class='newkkt'>ishd ifgs diugf iasyg iuy gsuyfg ai</div>
+  <div class='newkkt1'>some text 1</div>
+  <div class='newkkt2'>some text 2</div>
 
   <section class='disrow' id='top-nav'>
    <nav class="wrap">
